@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Clipboard Extension",
+  "version": "1.0",
+  "description": "A simple Chrome extension to copy the current URL to the clipboard.",
+  "permissions": ["activeTab", "clipboardWrite"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
