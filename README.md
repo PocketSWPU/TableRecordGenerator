@@ -1,4 +1,4 @@
-# Autumn Recruitment Table Record Generation
+# Autumn Recruitment Table Record Generator
 浏览器插件，用于秋招表格格式生成。
 
 使用：新建文件夹，用浏览器扩展载入。
